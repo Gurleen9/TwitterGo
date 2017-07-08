@@ -33,7 +33,7 @@
             android:layout_height="match_parent" />
             <TextView
                 android:paddingTop="2dp"
-                android:textSize="30dp"
+                android:textSize="15dp"
                 android:textStyle="italic"
                 android:fontFamily="sans-serif-condensed"
                 android:id="@+id/tweet"
